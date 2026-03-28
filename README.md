@@ -29,14 +29,14 @@ Through this project, we investigate key hardware specifications — RAM, batter
 ## 📂 Project Repository Structure
 
 ```
-EDA_and_Feature_Engineering_Project_on_Mobile_Dataset/
+📁 Repository Root/
 │
-├── EDA and Feature Engineering Project on Mobile Dataset/
-│   ├── EDA and Feature Engineering on Mobile Dataset.ipynb
-│   ├── Mobile Prices.csv
-│   └── README.md
+├── 📄 README.md                          ← You are here!
+├── 📄 Correlation Matrix Heatmap.png     ← Visual output
 │
-└── Correlation Matrix Heatmap.png
+└── 📂 EDA and Feature Engineering Project on Mobile Dataset/
+    ├── 📓 EDA and Feature Engineering on Mobile Dataset.ipynb
+    └── 📊 Mobile Prices.csv
 ```
 
 ---
